@@ -1,0 +1,1 @@
+-- This documento is just for study, feel free to open/fork/follow if you want.
