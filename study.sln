@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testPropriedades", "testPropriedades\testPropriedades.csproj", "{AE558685-8DB6-4D6B-A031-32B90A06C623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso DIO fullstack", "projeto csharp\Curso DIO fullstack.csproj", "{3B031FCD-ED63-40B0-9B57-D84CB184CC3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso DIO fullstack", "projetoCsharp\Curso DIO fullstack.csproj", "{3B031FCD-ED63-40B0-9B57-D84CB184CC3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
