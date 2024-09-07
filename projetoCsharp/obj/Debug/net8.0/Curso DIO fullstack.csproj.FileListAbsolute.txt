@@ -1,0 +1,29 @@
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\bin\Debug\net8.0\Curso DIO fullstack.exe
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\bin\Debug\net8.0\Curso DIO fullstack.deps.json
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\bin\Debug\net8.0\Curso DIO fullstack.runtimeconfig.json
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\bin\Debug\net8.0\Curso DIO fullstack.dll
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\bin\Debug\net8.0\Curso DIO fullstack.pdb
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\obj\Debug\net8.0\Curso DIO fullstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\obj\Debug\net8.0\Curso DIO fullstack.AssemblyInfoInputs.cache
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\obj\Debug\net8.0\Curso DIO fullstack.AssemblyInfo.cs
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\obj\Debug\net8.0\Curso DIO fullstack.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\obj\Debug\net8.0\Curso DIO fullstack.dll
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\obj\Debug\net8.0\refint\Curso DIO fullstack.dll
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\obj\Debug\net8.0\Curso DIO fullstack.pdb
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\obj\Debug\net8.0\Curso DIO fullstack.genruntimeconfig.cache
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\obj\Debug\net8.0\ref\Curso DIO fullstack.dll
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\obj\Debug\net8.0\Curso DIO fullstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\obj\Debug\net8.0\Curso DIO fullstack.AssemblyInfoInputs.cache
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\obj\Debug\net8.0\Curso DIO fullstack.AssemblyInfo.cs
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\obj\Debug\net8.0\Curso DIO fullstack.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\obj\Debug\net8.0\Curso DIO fullstack.dll
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\obj\Debug\net8.0\refint\Curso DIO fullstack.dll
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\obj\Debug\net8.0\Curso DIO fullstack.pdb
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\obj\Debug\net8.0\Curso DIO fullstack.sourcelink.json
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\bin\Debug\net8.0\Curso DIO fullstack.exe
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\bin\Debug\net8.0\Curso DIO fullstack.deps.json
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\bin\Debug\net8.0\Curso DIO fullstack.runtimeconfig.json
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\bin\Debug\net8.0\Curso DIO fullstack.dll
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\bin\Debug\net8.0\Curso DIO fullstack.pdb
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\obj\Debug\net8.0\Curso DIO fullstack.genruntimeconfig.cache
+C:\Users\Robert\Documents\Estudo - Trabalho\Curso DIO fullstack\projeto csharp\obj\Debug\net8.0\ref\Curso DIO fullstack.dll
