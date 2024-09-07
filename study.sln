@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testPropriedades", "testPropriedades\testPropriedades.csproj", "{AE558685-8DB6-4D6B-A031-32B90A06C623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso DIO fullstack", "projeto csharp\Curso DIO fullstack.csproj", "{3B031FCD-ED63-40B0-9B57-D84CB184CC3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE558685-8DB6-4D6B-A031-32B90A06C623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE558685-8DB6-4D6B-A031-32B90A06C623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE558685-8DB6-4D6B-A031-32B90A06C623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE558685-8DB6-4D6B-A031-32B90A06C623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B031FCD-ED63-40B0-9B57-D84CB184CC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B031FCD-ED63-40B0-9B57-D84CB184CC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B031FCD-ED63-40B0-9B57-D84CB184CC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B031FCD-ED63-40B0-9B57-D84CB184CC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
